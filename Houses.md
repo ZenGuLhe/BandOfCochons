@@ -1,4 +1,4 @@
-# Type de maison (Houses in english)
+# Type de maisons (Houses in english)
 - Papaye
 - Bois
 - Brique
